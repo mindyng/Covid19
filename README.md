@@ -1,2 +1,2 @@
 # Covid19
-Personal analysis and CoronaWhy Task-Treatments
+CoronaWhy Task-Treatments and Personal analysis
