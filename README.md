@@ -1,2 +1,3 @@
 # Covid19
-CoronaWhy Task-Treatments and Personal analysis
+1. Main: CoronaWhy: Task-Treatments 
+2. Side: personal analyses
